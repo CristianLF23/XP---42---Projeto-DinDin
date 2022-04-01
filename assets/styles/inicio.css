@@ -1,0 +1,172 @@
+h1{
+    font-weight: 700, bold;
+    font-size: 60px;
+    line-height: 68px;
+    color: #ff4081;
+}
+
+h3{
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;
+    color: #555555;
+}
+.sabermais  {
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;
+    color: #FF4081;
+    border: 2px solid #FF4081;
+    box-sizing: border-box;
+    border-radius: 62px;
+    text-decoration: none;
+    padding: 8px 26px;
+}
+
+.parte1 {
+    display:inline-block;
+    padding:  100px 406px 200px; 
+    background: url('../images/ilustra-banner.png') 950px 100px no-repeat;
+}
+
+.parte2 {
+    background-color: #F7F7F7;
+    padding: 3%;
+}
+.bloco{
+    display:flex;
+    margin: 10px;
+    justify-content: space-evenly;
+    padding-left: 2%; 
+    flex-wrap: wrap;
+}
+
+.botão2 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    color: white;
+    background: #FF4081;
+    border: none;
+    border-radius: 62px;
+    padding: 3% 12%;
+    text-decoration: none;
+    margin-left: 17%;
+
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    color: #ff4081;
+} 
+
+div img { 
+    max-width: 288px;
+}
+
+.img3 {width: 222px;}
+
+p {
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+}
+
+h5 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 50px;
+    color: #009688;
+    padding-left: 16%;
+    
+}
+.bloco3 { 
+    justify-content: space-between;
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.corpobloco3{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 0 5%
+}  
+
+.foto {
+    display: block;
+    height: 110px;
+    width: 110px;
+    padding-right: 30px;
+}
+
+.apresentação {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    display: block;
+    text-align: justify;
+}
+
+.parte3{
+    background-color: #F7F7F7;
+    padding: 3%
+}
+
+h7 {
+    padding-left: 13%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 43px;
+    color: #009688;
+}
+
+.video{
+    width: 319;
+    height:193;
+    background-color: #555555;
+}
+
+.bloco4 {
+    padding-top: 5%;
+    justify-content: space-between;
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+h8 {
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 31px;
+    color: #009688;
+}
+
+.sitetodo {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FF4081;
+    text-decoration: none;
+    border: 2px solid #FF4081;
+    box-sizing: border-box;
+    border-radius: 62px;
+    padding: 5px 20px;
+    margin-left: 42%;
+    margin-right: 43%;
+    margin-top: 5%;
+    display: flex;
+}
+
